@@ -1,7 +1,8 @@
 body{
-    background:white;
+    background:rgb(168, 239, 176);
     font-size: medium;
     text-align: center;
+    
 }
 
 
@@ -11,7 +12,7 @@ header{
     font-size: large;
     text-align: center;
     display: flex;
-    background-color: rgb(159, 251, 159);
+    
 }
 
 
@@ -34,7 +35,7 @@ img{
     justify-content:flex-start;
     gap: 20px;
     height: 100px;
-    background-image: url(./assets/loktak.jpg);
+    background-image: url(./loktak.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -67,11 +68,13 @@ img{
 
 .box div{
     height: 200px;
-    width: 200px;
+    width: 300px;
     background-color:rgb(161, 161, 210);
 }
 
 
-
+.para{
+    background-color: aqua;
+}
 
 
